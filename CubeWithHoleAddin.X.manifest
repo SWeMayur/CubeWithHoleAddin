@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="CubeWithHoleAddin" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{6a5b08ec-fa48-46de-b9ba-f81de901d384}" progid="CubeWithHoleAddin.StandardAddInServer" threadingModel="Both" name="CubeWithHoleAddin.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="CubeWithHoleAddin.dll" hashalg="SHA1"></file>
+
+</assembly>
