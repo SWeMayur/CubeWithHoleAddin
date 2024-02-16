@@ -48,10 +48,6 @@ Before using the Add-In, ensure you have:
 
 No specific configuration is required. Ensure Autodesk Inventor is properly configured on your machine.
 
-## Acknowledgments
-
-- [List any third-party libraries or resources used in your Add-In.]
-
 ## Release History
 
 - **Release 1.0.0:**
