@@ -55,8 +55,8 @@ No specific configuration is required. Ensure Autodesk Inventor is properly conf
 
 ## Author
 
-[Mayur Kapadnis]
+Mayur Kapadnis
 
 ## Contact
 
-For inquiries or support, please contact [Mayur.Kapadnis@cctech.co.in].
+For inquiries or support, please contact Mayur.Kapadnis@cctech.co.in
